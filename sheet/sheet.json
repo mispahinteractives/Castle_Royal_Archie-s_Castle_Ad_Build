@@ -10,7 +10,7 @@
 },
 {
 	"filename": "coin_hud",
-	"frame": {"x":957,"y":428,"w":166,"h":69},
+	"frame": {"x":814,"y":428,"w":166,"h":69},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":69},
@@ -26,7 +26,7 @@
 },
 {
 	"filename": "complete _the_level_to_win/2",
-	"frame": {"x":814,"y":428,"w":140,"h":71},
+	"frame": {"x":735,"y":159,"w":140,"h":71},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":71},
@@ -34,7 +34,7 @@
 },
 {
 	"filename": "complete _the_level_to_win/3",
-	"frame": {"x":735,"y":159,"w":210,"h":71},
+	"frame": {"x":1066,"y":98,"w":210,"h":71},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":71},
@@ -82,7 +82,7 @@
 },
 {
 	"filename": "platform bottom blue",
-	"frame": {"x":1090,"y":164,"w":46,"h":51},
+	"frame": {"x":971,"y":188,"w":46,"h":51},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":51},
@@ -138,7 +138,7 @@
 },
 {
 	"filename": "player_platforms_UI/Platforms text",
-	"frame": {"x":891,"y":98,"w":77,"h":13},
+	"frame": {"x":1043,"y":494,"w":77,"h":13},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":13},
@@ -146,7 +146,7 @@
 },
 {
 	"filename": "player_platforms_UI/Players text",
-	"frame": {"x":848,"y":327,"w":57,"h":15},
+	"frame": {"x":983,"y":494,"w":57,"h":15},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":15},
@@ -178,7 +178,7 @@
 },
 {
 	"filename": "players/3",
-	"frame": {"x":1149,"y":98,"w":90,"h":90},
+	"frame": {"x":878,"y":159,"w":90,"h":90},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
@@ -186,7 +186,7 @@
 },
 {
 	"filename": "players/4",
-	"frame": {"x":1028,"y":223,"w":90,"h":90},
+	"frame": {"x":1028,"y":226,"w":90,"h":90},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
@@ -194,7 +194,7 @@
 },
 {
 	"filename": "players/5",
-	"frame": {"x":1070,"y":316,"w":90,"h":90},
+	"frame": {"x":1070,"y":319,"w":90,"h":90},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
@@ -202,7 +202,7 @@
 },
 {
 	"filename": "players/6",
-	"frame": {"x":1121,"y":218,"w":90,"h":90},
+	"frame": {"x":1123,"y":412,"w":90,"h":90},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
@@ -210,7 +210,7 @@
 },
 {
 	"filename": "players/7",
-	"frame": {"x":1126,"y":409,"w":90,"h":90},
+	"frame": {"x":1121,"y":208,"w":90,"h":90},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
@@ -218,7 +218,7 @@
 },
 {
 	"filename": "players/8",
-	"frame": {"x":1163,"y":311,"w":90,"h":90},
+	"frame": {"x":1163,"y":301,"w":90,"h":90},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":90},
@@ -234,7 +234,7 @@
 },
 {
 	"filename": "ripples masked",
-	"frame": {"x":1014,"y":188,"w":73,"h":32},
+	"frame": {"x":1129,"y":172,"w":73,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":32},
@@ -242,7 +242,7 @@
 },
 {
 	"filename": "single ripple",
-	"frame": {"x":891,"y":114,"w":73,"h":35},
+	"frame": {"x":1020,"y":188,"w":73,"h":35},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":35},
@@ -250,7 +250,7 @@
 },
 {
 	"filename": "Solitaire Logo",
-	"frame": {"x":848,"y":233,"w":177,"h":91},
+	"frame": {"x":848,"y":252,"w":177,"h":91},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":91},
@@ -258,7 +258,7 @@
 },
 {
 	"filename": "streak_Black_Fill_",
-	"frame": {"x":981,"y":188,"w":30,"h":33},
+	"frame": {"x":1096,"y":172,"w":30,"h":33},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":33},
@@ -274,7 +274,7 @@
 },
 {
 	"filename": "streak_Red_Fill_",
-	"frame": {"x":948,"y":188,"w":30,"h":34},
+	"frame": {"x":1066,"y":428,"w":30,"h":34},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":34},
@@ -314,7 +314,7 @@
 },
 {
 	"filename": "there_can_only_be_one_winner/4",
-	"frame": {"x":1066,"y":98,"w":80,"h":63},
+	"frame": {"x":983,"y":428,"w":80,"h":63},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":63},
@@ -335,14 +335,22 @@
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":431,"h":93},
 	"sourceSize": {"w":431,"h":93}
+},
+{
+	"filename": "Yellow sparkle",
+	"frame": {"x":891,"y":98,"w":58,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":58},
+	"sourceSize": {"w":58,"h":58}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "sheet.png",
 	"format": "RGBA8888",
-	"size": {"w":1270,"h":512},
+	"size": {"w":1278,"h":512},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:f971a167011f19f2a31179b4ebffbb82:1253c0636789fb6ad239f7d87dd8d10e:9c44ecd7e9a522007eaff2949095bc1d$"
+	"smartupdate": "$TexturePacker:SmartUpdate:4058e1590c47e31698d37c6baf1a868b:d65430833b48e5154b6147c97363df2c:9c44ecd7e9a522007eaff2949095bc1d$"
 }
 }
