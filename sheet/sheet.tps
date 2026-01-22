@@ -256,7 +256,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">../assets/Yellow sparkle.png</key>
+            <key type="filename">../assets/Streak_Blue Fill.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -265,9 +265,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>15,15,29,29</rect>
+                <rect>8,8,15,17</rect>
                 <key>scale9Paddings</key>
-                <rect>15,15,29,29</rect>
+                <rect>8,8,15,17</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -403,6 +403,51 @@
                 <rect>60,60,120,120</rect>
                 <key>scale9Paddings</key>
                 <rect>60,60,120,120</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../assets/particles/blue.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>11,11,21,21</rect>
+                <key>scale9Paddings</key>
+                <rect>11,11,21,21</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../assets/particles/white.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>15,15,29,30</rect>
+                <key>scale9Paddings</key>
+                <rect>15,15,29,30</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../assets/particles/yellow.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>15,15,29,29</rect>
+                <key>scale9Paddings</key>
+                <rect>15,15,29,29</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -578,7 +623,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">../assets/streak_Black_Fill_.png</key>
+            <key type="filename">../assets/streak platform_glow.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -587,24 +632,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>8,8,15,17</rect>
+                <rect>32,36,65,72</rect>
                 <key>scale9Paddings</key>
-                <rect>8,8,15,17</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">../assets/streak_Red_Fill_.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>8,9,15,17</rect>
-                <key>scale9Paddings</key>
-                <rect>8,9,15,17</rect>
+                <rect>32,36,65,72</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -620,6 +650,21 @@
                 <rect>59,15,117,29</rect>
                 <key>scale9Paddings</key>
                 <rect>59,15,117,29</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../assets/streak_platform_glow_rays.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>29,29,57,57</rect>
+                <key>scale9Paddings</key>
+                <rect>29,29,57,57</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
